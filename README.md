@@ -74,9 +74,10 @@ node bot.js
 🔗 [Открыть](https://fqwfdcv.github.io/fqwfdcv/)  
 Анимации, минимал, ссылки
 
-### 3. Портфолио-бот  
-🔗 [Открыть](https://fqwfdcv.github.io/fqwfdcv/)
-Удобность, практичность
+### 2. Портфолио-сайт  
+🔗 [Открыть]([https://fqwfdcv.github.io/fqwfdcv/](https://github.com/fqwfdcv/absolute-fqwfdcv-portfolio-bot/tree/main))  
+Анимации, минимал, ссылки
+
 ---
 
 ## 📌 Автор
